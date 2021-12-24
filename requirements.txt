@@ -1,16 +1,16 @@
 anyio==3.4.0
-#argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
-#async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
-#attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
-#Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
-#backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-#bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
+argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
 brotlipy==0.7.0
 certifi==2021.10.8
-#cffi @ file:///C:/ci/cffi_1636523946399/work
-#charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-#colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-#cryptography @ file:///C:/ci/cryptography_1639414720302/work
+cffi @ file:///C:/ci/cffi_1636523946399/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cryptography @ file:///C:/ci/cryptography_1639414720302/work
 debugpy @ file:///C:/ci/debugpy_1637091961445/work
 decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
@@ -57,7 +57,7 @@ pyrsistent @ file:///C:/ci/pyrsistent_1636093225342/work
 PySocks @ file:///C:/ci/pysocks_1605307512533/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
-#pywin32==302
+pywin32==302
 pywinpty @ file:///C:/ci/pywinpty_1607419945780/work
 pyzmq @ file:///C:/ci/pyzmq_1638435148211/work
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1632739723211/work
@@ -68,7 +68,7 @@ sip==4.19.13
 six @ file:///tmp/build/80754af9/six_1623709665295/work
 sniffio @ file:///C:/ci/sniffio_1614030527509/work
 tenacity==8.0.1
-#terminado==0.9.4
+terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 tornado @ file:///C:/ci/tornado_1606924294691/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
