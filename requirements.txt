@@ -4,7 +4,7 @@ anyio==3.4.0
 #attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 #Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
 #backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
+#bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
 brotlipy==0.7.0
 certifi==2021.10.8
 cffi @ file:///C:/ci/cffi_1636523946399/work
